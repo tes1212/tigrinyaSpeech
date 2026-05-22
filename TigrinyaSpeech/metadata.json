@@ -1,0 +1,6 @@
+{
+  "name": "Tigrinya TTS",
+  "description": "Premium Text-to-Speech for Eritrean Tigrinya using the Piper model. High-quality neural voice for long-form content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
